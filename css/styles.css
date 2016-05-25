@@ -1,0 +1,12 @@
+h2.intro {
+  color: purple;
+}
+
+p.intro {
+  font-family: monospace;
+  font-size: 18px;
+}
+
+img.intro {
+  border: pink dashed 5px;
+}
