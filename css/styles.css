@@ -7,3 +7,9 @@ div.intro {
 img {
   border: pink dashed 5px;
 }
+
+.newClass {
+  border: 5px solid blue;
+  background: yellow;
+
+}
